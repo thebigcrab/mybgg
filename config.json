@@ -4,15 +4,15 @@
         "title": ""
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "bigcrab",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "7S18Q6R8AI",
+        "api_key_search_only": "ee735eee8e5efe6145e6a8399f3eced4",
+        "index_name": "f3da7c5a3f5eb64fef96af57bd0e2d6d",
         "hits_per_page": 24
     }
 }
